@@ -1,0 +1,19 @@
+{
+  "name": "suparesto",
+  "version": "1.0.0",
+  "description": "test for resto reservations with supabase",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "supabase",
+    "resto"
+  ],
+  "author": "tom hermans",
+  "license": "ISC",
+  "dependencies": {
+    "@supabase/supabase-js": "^1.18.1",
+    "dotenv": "^10.0.0"
+  }
+}
